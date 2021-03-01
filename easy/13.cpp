@@ -36,6 +36,6 @@ int romanToInt(string s) {
 }
 
 int main() {
-	cout << romanToInt("MCMXCIV") << endl;
+	cout << romanToInt("XXVI") << endl;
 	system("pause");
 }
